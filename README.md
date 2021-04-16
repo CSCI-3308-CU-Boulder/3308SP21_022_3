@@ -1,4 +1,4 @@
-Date Night
+Your Night Out 
 
   The purpose of the Date Night application is to generate an itinerary for a dinner and movie date. Once users sign up for the application with Google Authentication, they 
 will have the option to provide preferences for the types of restaurant they like, and what genre of movie they enjoy watching. When the user is signed in, they can select the 
