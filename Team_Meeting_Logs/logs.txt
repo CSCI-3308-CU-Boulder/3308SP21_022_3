@@ -1,0 +1,20 @@
+MEETING #: DESCRIPTION
+
+Meeting 1:  Karthik went over our overall project and told us to revise the application idea since it was too similar to AllTrails. They are basically the same in functionality. There are also complexities around how to log hikes. 
+  
+Meeting 2: We presented the new project idea: A Date/Movie app called Date Night. Karthik thinks that firebase is not a sufficient backend and we are also lacking a databse component. He recommended Node.js with a Postgres database and a bootstrap frontend. 
+
+Meeting 3: Karthik thinks that we should not use Jira for our project plan because it doesn't encorporate Sprints that are part of the agile methodology. We also presented a prototype of the application/website and received some light feedback on it.
+
+Meeting 4: We presented the first rough draft of our application. We got all of the requirements done and karthik likes our layout for the frontend. Our backend has not been fully developed yet but karthik thought it was fine since we have a basic knowledge of how we are going to do it. 
+
+Meeting 5: We just went over our milestone 3 document and Karthik asked if we had any questions before we started setting up Node.js this week. Just a quick check-in this week.
+
+Meeting 6: We went over our backend/APIs and Karthik told us to keep working on our Node.js and decide what features we should(n't) keep in our application.
+
+Meeting 7: We reviewed our large barriers of the project and what we still need to do in order to complete it by the deadline. Karthik thinks that we should not focus on (one) specific thing(s) but just have a complete demo ready by the deadline in order to get full credit. 
+
+Meeting 8: Karthik asked us if we will be ready by the due date and what our large obstacles are. The main one is to combine all of our separate parts because doing so can make a lot of errors. He told us to start doing it ASAP
+
+Meeting 9: Adam got help with the restaurants API and we shared our current status. Since we already deployed to Heroku and we only have a little bit left we should be ready by the presentation date. To deploy we used a different github repo with pulled code from this main one 
+
