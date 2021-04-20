@@ -1,3 +1,5 @@
+*** FINAL SUBMISSION ***
+
 Your Night Out 
 
 Link to website: http://your-night-out.herokuapp.com/
