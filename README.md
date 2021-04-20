@@ -5,6 +5,9 @@ Your Night Out
 Link to website: http://your-night-out.herokuapp.com/
 Link to repo used: https://github.com/soei7511/your-night-out
 
+Repo Organization/Structure:
+Our code is contained in the Project_Code directory. All of our .ejs files are in the views directory, our image assets and css are in the resources directory, and our server.js file is in the test directory.
+
   The purpose of the Your Night Out application is to generate an itinerary for a dinner and movie date. Once users sign up for the application with, they 
 will have the option to provide preferences for the types of restaurant they like, and what genre of movie they enjoy watching. When the user is signed in, they can select the 
 date and time they want to schedule their date. Based on the user’s location and preferences, our application will provide the user with a list of restaurants nearby, and if 
